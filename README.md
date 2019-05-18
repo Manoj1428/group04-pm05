@@ -2,9 +2,9 @@
 44-618-Project Management in Business and Technology
 
  # Project title
- - Two Way chat using HTML CSS
+ - TEMPERATURE CONVERTER
  ## Project description 
- - Chat communication is the process of exchanging messages between two systems continuously. Anyone can break the communication. Both systems come with the same responsibilities. This will ease to user friendly communication with effective styling.
+ - This app helps one to convert Fahrenheit to celsius temperature and vice versa.
  ## Team name 
  - Hawk Eyes
  ## Team member names 
