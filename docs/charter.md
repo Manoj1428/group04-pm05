@@ -1,4 +1,5 @@
 # Project Charter
+TWO WAY CHAT USING HTML CSS STYLING
 
 ## Client 
 - Manasa Goripathi
