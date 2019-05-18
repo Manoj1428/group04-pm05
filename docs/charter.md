@@ -45,7 +45,7 @@ This project Charter is for the project TWO WAY CHAT USING HTML CSS STYLING
 |Dr.Case                  | Professor   |dcase@nwmissouri.edu |MEENTOR |     
 |Naga Sai Manoj Goppisetty| Business Analyst |S534885@gmail.edu | Team Lead |
 | Nithya vudayamari       |Administrator | S534641@nwmissouri.edu| Team Member|
-|  Manasa Goripathi       |HR | S534            | Team Member|
+|  Manasa Goripathi       |HR | S534782@nwmissouri.edu | Team Member|
 | Farheen Mohammad        | Developer|s534880@nwmissouri.edu| Team Member |
 
 
