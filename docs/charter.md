@@ -1,5 +1,5 @@
 # Project Charter
-This project Charter is for the project TWO WAY CHAT USING HTML CSS STYLING 
+This project Charter is for the project TEMPERATURE CONVERTER
 
 ## Client 
 - Priyanka Galla, S534884@nwmissouri.edu
@@ -9,6 +9,7 @@ This project Charter is for the project TWO WAY CHAT USING HTML CSS STYLING
 - Dr.Case, dcase@nwmissouri.edu
 
 ## Project Purpose
+- This app helps one to convert Fahrenheit to Celsius and vice versa.
 ## Benefits
 - Reduces time complexity
 - User friendly communications
