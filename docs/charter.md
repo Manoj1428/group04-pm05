@@ -14,11 +14,11 @@ This project Charter is for the project TWO WAY CHAT USING HTML CSS STYLING
 - User friendly communications
 ## Roles 
 
-- Administrator : Nithya vudayamari
+- Administrator : Nithya vudayamari , 
 - Analyst : Naga Sai Manoj Goppisetty, S534885@nwmissouri.edu
 - Developer : Farheen Mohammad
 ## Project Sponsor
--
+- Manoj
 
 ## Budget 
 - 10 Million
