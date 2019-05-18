@@ -31,7 +31,9 @@ TWO WAY CHAT USING HTML CSS STYLING
 ## Stake Holder Register
 
 | Project Title | TWO WAY CHAT USING HTML CSS STYLING |
+|---------------|-------------------------------------|
 | Project Phase | Planning |
+
 
 | Name of the StakeHolder | Designation | Department | Role in Project |
 | ----------------------- |-------------|------------|-----------------|
