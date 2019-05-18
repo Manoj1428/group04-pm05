@@ -11,7 +11,7 @@
  - Naga Sai Manoj Goppisetty , S534885@nwmissouri.edu
  - Nithya Vudayamari , S534641@nwmissouri.edu
  - Manasa Goripathi , s534782@nwmissouri.edu
- - Farheen Mohammad
+ - Farheen Mohammad , s534800@nwmissouri.edu
  ### Client 
  - Manasa Goripathi
  #### Team logo
