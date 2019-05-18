@@ -5,7 +5,7 @@ TWO WAY CHAT USING HTML CSS STYLING
 - Manasa Goripathi
 
 ## Mentor 
- Our Mentor include: 
+ Our Mentor include 
 - Dr.Case, dcase@nwmissouri.edu
 
 ## Project Purpose
