@@ -16,7 +16,7 @@ This project Charter is for the project TWO WAY CHAT USING HTML CSS STYLING
 
 - Administrator : Nithya vudayamari , S534641@nwmissouri.edu
 - Analyst : Naga Sai Manoj Goppisetty, S534885@nwmissouri.edu
-- Developer : Farheen Mohammad , S534800@nwmissouri.edu
+- Developer : Farheen Mohammad
 - HR: Manasa Goripathi ,
 ## Project Sponsor
 - Manoj
@@ -42,13 +42,12 @@ This project Charter is for the project TWO WAY CHAT USING HTML CSS STYLING
 
 | Name of the StakeHolder | Designation | contact info| Role in Project |
 | ----------------------- |-------------|------------|-----------------|
-|Naga Sai Manoj Goppisetty|Business Analyst|         |                 |
-|                         |             |            |                 |
-|                         |             |            |                 |
-|                         |             |            |                 |
-|                         |             |            |                 |
-|                         |             |            |                 |
-|                         |             |            |                 |
+|Dr.Case                  | Professor   |dcase@nwmissouri.edu |MEENTOR |     
+|Naga Sai Manoj Goppisetty| Business Analyst |S534885@gmail.edu | Team Lead |
+| Nithya vudayamari       |Administrator | S534641@nwmissouri.edu| Team Member|
+|  Manasa Goripathi       |HR | S534            | Team Member|
+| Farheen Mohammad        | Developer|s534880@nwmissouri.edu| Team Member |
+
 
 
 ## Milestone Schedule
