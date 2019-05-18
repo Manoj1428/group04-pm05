@@ -2,7 +2,7 @@
 This project Charter is for the project TWO WAY CHAT USING HTML CSS STYLING 
 
 ## Client 
-- Manasa Goripathi, s534782@nwmissouri.edu
+- Priyanka Galla, S534884@nwmissouri.edu
 
 ## Mentor 
  Our Mentor include 
@@ -14,9 +14,10 @@ This project Charter is for the project TWO WAY CHAT USING HTML CSS STYLING
 - User friendly communications
 ## Roles 
 
-- Administrator : Nithya vudayamari , 
+- Administrator : Nithya vudayamari , S534641@nwmissouri.edu
 - Analyst : Naga Sai Manoj Goppisetty, S534885@nwmissouri.edu
 - Developer : Farheen Mohammad
+- HR: Manasa Goripathi ,
 ## Project Sponsor
 - Manoj
 
@@ -39,9 +40,9 @@ This project Charter is for the project TWO WAY CHAT USING HTML CSS STYLING
 | Project Phase | Planning |
 
 
-| Name of the StakeHolder | Designation | Department | Role in Project |
+| Name of the StakeHolder | Designation | contact info| Role in Project |
 | ----------------------- |-------------|------------|-----------------|
-|                         |             |            |                 |
+|Naga Sai Manoj Goppisetty|Business Analyst|         |                 |
 |                         |             |            |                 |
 |                         |             |            |                 |
 |                         |             |            |                 |
