@@ -2,7 +2,7 @@
 This project Charter is for the project TWO WAY CHAT USING HTML CSS STYLING 
 
 ## Client 
-- Manasa Goripathi
+- Manasa Goripathi, s534782@nwmissouri.edu
 
 ## Mentor 
  Our Mentor include 
