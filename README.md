@@ -8,8 +8,8 @@
  ## Team name 
  - Hawk Eyes
  ## Team member names 
- - Naga Sai Manoj Goppisetty
- - Nithya Vudayamari
+ - Naga Sai Manoj Goppisetty , S534885@nwmissouri.edu
+ - Nithya Vudayamari , S534641@nwmissouri.edu
  - Manasa Goripathi
  - Farheen Mohammad
  ### Client 
