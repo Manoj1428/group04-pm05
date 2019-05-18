@@ -1,5 +1,5 @@
 # Project Charter
-TWO WAY CHAT USING HTML CSS STYLING
+This project Charter is for the project TWO WAY CHAT USING HTML CSS STYLING 
 
 ## Client 
 - Manasa Goripathi
@@ -10,11 +10,15 @@ TWO WAY CHAT USING HTML CSS STYLING
 
 ## Project Purpose
 ## Benefits
+- Reduces time complexity
+- User friendly communications
 ## Roles 
 
 - Administrator : Nithya vudayamari
-- Analyst : Naga Sai Manoj Goppisetty
+- Analyst : Naga Sai Manoj Goppisetty, S534885@nwmissouri.edu
 - Developer : Farheen Mohammad
+## Project Sponsor
+-
 
 ## Budget 
 - 10 Million
@@ -46,5 +50,9 @@ TWO WAY CHAT USING HTML CSS STYLING
 |                         |             |            |                 |
 
 
-
-
+## Milestone Schedule
+|Milestone| Target Date |
+|---------|------------ |
+|First Milestone | 05/18/2019|
+|Second milestone| 05/24/2019|
+|Third Milestone| 05/31/2019 |
