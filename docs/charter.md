@@ -2,7 +2,7 @@
 This project Charter is for the project Project Management in Business and Technology.
 
 ## Client 
-- Priyanka Galla, S534884@nwmissouri.edu
+- Dr. Denise Case
 
 ## Mentor 
  Our Mentor include 
