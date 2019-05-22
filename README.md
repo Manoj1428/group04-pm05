@@ -10,8 +10,8 @@
  ## Team member names 
  - Naga Sai Manoj Goppisetty , S534885@nwmissouri.edu
  - Nithya Vudayamari , S534641@nwmissouri.edu
- - Manasa Goripathi , s534782@nwmissouri.edu
- - Farheen Mohammad , s534800@nwmissouri.edu
+ - Manasa Goripathi , S534782@nwmissouri.edu
+ - Farheen Mohammad , S534800@nwmissouri.edu
  ### Client 
  - Dr. Denise Case
  #### Team logo
