@@ -1,5 +1,5 @@
 # Project Charter
-This project Charter is for the project Project Management in Business and Technology.
+This project Charter is for the project "Project Management FunctionBox".
 
 ## Client 
 - Dr. Denise Case
