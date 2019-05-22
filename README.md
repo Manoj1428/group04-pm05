@@ -13,6 +13,6 @@
  - Manasa Goripathi , s534782@nwmissouri.edu
  - Farheen Mohammad , s534800@nwmissouri.edu
  ### Client 
- - Manasa Goripathi
+ - Dr. Denise Case
  #### Team logo
   ![logo](https://www.logolynx.com/images/logolynx/e3/e3887c2ed28bc32461f57852b954a156.png)
