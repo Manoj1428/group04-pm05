@@ -1,5 +1,5 @@
 # Project Charter
-This project Charter is for the project TEMPERATURE CONVERTER
+This project Charter is for the project Project Management in Business and Technology.
 
 ## Client 
 - Priyanka Galla, S534884@nwmissouri.edu
@@ -9,10 +9,11 @@ This project Charter is for the project TEMPERATURE CONVERTER
 - Dr.Case, dcase@nwmissouri.edu
 
 ## Project Purpose
-- This app helps one to convert Fahrenheit to Celsius and vice versa.
+- This app helps all the students taking Project Management in Business and Technology to learn the course easily with interactive videos, descriptions. One can test themselves with the quizes and scenarios provided. This app helps one to track their progress in the course with the help of score cards provided. Adding on this app is free to use just one needs to create their account and they are ready to use the app.
 ## Benefits
-- Reduces time complexity
-- User friendly communications
+- Fun way to learn the course.
+- User friendly communications.
+- Quizes provided helps one to track their performance.
 ## Roles 
 
 - Administrator : Nithya vudayamari , S534641@nwmissouri.edu
@@ -23,7 +24,7 @@ This project Charter is for the project TEMPERATURE CONVERTER
 - G.N.S.Manoj 
 
 ## Budget 
-- 10 Million
+- $1500
 
 ## Scope
 ### Phase 1 - Initiation
@@ -65,7 +66,7 @@ We Deliver:
 
 ## Stake Holder Register
 
-| Project Title | TWO WAY CHAT USING HTML CSS STYLING |
+| Project Title | Project Management in Business and Technology|
 |---------------|-------------------------------------|
 | Project Phase | Planning |
 
