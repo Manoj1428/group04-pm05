@@ -29,5 +29,5 @@
 |Total Project Cost Estimates||||				$201,000|| 	
 
 
- ## Note: We may Change the WBS items and other entries to meet our project needs. Also we will make sure the formulas work properly based on input data 					
+ - Note: We may Change the WBS items and other entries to meet our project needs. Also we will make sure the formulas work properly based on input data 					
 
