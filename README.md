@@ -52,7 +52,8 @@
 ||Final Presentation	|Nithya vudayamarri Naga Sai Manoj Goppisetty Manasa Goripathi Farheen Mohammad|
 
 ## Team Signatures:-
-Nithya vudayamarri, S534641
+Nithya vudayamarri S534641
+Naga Sai Manoj Goppisetty S534885
 
 
 
