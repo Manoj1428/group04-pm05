@@ -1,6 +1,5 @@
 # Project Scope Management
 
-## Prepared by: Nithya Vudayamari 
 
 ##	To prepare a detailed project management scope statement
 - Using the feedback from the employee and user, an analysis will be conducted on software applications used by the company.
@@ -26,51 +25,50 @@
 -	If the change request receives initial approval by the project director and sponsor, the project director will then formally submit the change request to the change control board (CCB) which either approves the change by signing document or denies it.
 -	Upon acceptance of the scope change by the CCB and project sponsor the project director will update all project documents and communicate the scope change to all project team member’s stakeholders.
 
+# WORK BREAKDOWN STRUCTURE			
 
-# Work Breakdown Structure (WBS)
-## Prepared By: Farheen Mohammad                                             	   	                                                 - Date: 05/13/2019
 
-## 1. Project Initiation
- 1. Stakeholder Identification
- 2. Select Project Team
- 3. Project charter development
- 4. Review Project Charter
- 5. Project charter Approval
+# Project Initiation
+- Stakeholder Identification
+- Select Project Manager
+- Develop Project Charter
+- Approval of Project charter
+- Review Project Charter
 
-## 2. Planning
- 1. Develop scope statement
- 2. Develop requirement management plan
- 3. Project planning
- 4. Design requirement traceability matrix
- 5. Design cost management plan
- 6.Design project management plan
- 7.Quality management plan development
- 8. Plan approvals
-## 3. Execution
-1. Resources collection
-2. Fixing essentials of the website
-3. Develop a prototype
-4. Approval for the prototype
-5. Designing unit test cases
-6. Begin the development
-7. Finish the development
+# Project Planning
+- Develop Scope statement
+- Develop Requirement Management Plan
+- Develop project plan
+- Develop Requirement Traceability matrix
+- Develop cost management plan
+- Develop the Project management plan
+- Develop Quality Management Plan
+- Develop Project Management Plan
+- Approval of all plans 
 
-## 4. Testing
-1. Unit Testing
-2. Design test cases
-3. Integration Testing
-4. System Testing
-5. User Acceptance Testing
-6. Testing complete
+# Project Execution
+- Obtain all the resources required
+- Decide components of the website
+- Develop a prototype
+- Obtain approval for the prototype
+- Start the development 
+- Finish the development
 
-## 5. Monitoring and Controlling
-1. Verification of system for bugs
-2. Response to reported bugs
+# Project Testing
+- Unit Testing
+- Integration Testing
+- System Testing
+- User Acceptance Testing
+- Testing Complete
 
-## 6. Closing
-1. Complete documentation about project
-2. Project demo
-3. Project hand over
+# Project Monitoring and Controlling
+- Track the system for bugs
+- Response to complaints
+
+# Project Closing
+- Document the lessons learned
+- Project Demo
+- Project Hand over
 
 
 # SCOPE STATEMENT
@@ -78,7 +76,6 @@
 ## Project Title: Project Management FunctionBox                                    
 ## Date: 05/24/2019
 
-## Prepared by: Manasa Goriparthi
 
 ## Project Justification
 This application helps students learn Project Management course easily and also they can track their progress academically.
