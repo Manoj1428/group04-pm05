@@ -27,47 +27,47 @@
 # Work Breakdown Structure (WBS)
 ## Prepared By: Farheen Mohammad                                             	   	                                                 - Date: 05/13/2019
 
-1. Project Initiation
- 1.1. Stakeholder Identification
- 1.2. Select Project Team
- 1.3. Project charter development
- 1.4. Review Project Charter
- 1.5. Project charter Approval
+## Project Initiation
+ 1. Stakeholder Identification
+ 2. Select Project Team
+ 3. Project charter development
+ 4. Review Project Charter
+ 5. Project charter Approval
 
-2. Planning
- 2.1. Develop scope statement
- 2.2. Develop requirement management plan
- 2.3.	Project planning
- 2.4.	Design requirement traceability matrix
- 2.5.	Design cost management plan
-2.6.	Design project management plan
-2.7.	Quality management plan development
-2.8.	Plan approvals
-3.	Execution
-3.1.	Resources collection
-3.2.	Fixing essentials of the website
-3.3.	Develop a prototype
-3.4.	Approval for the prototype
-3.5.	Designing unit test cases
-3.6.	Begin the development
-3.7 Finish the development
+## Planning
+ 1. Develop scope statement
+ 2. Develop requirement management plan
+ 3. Project planning
+ 4. Design requirement traceability matrix
+ 5. Design cost management plan
+ 6.Design project management plan
+ 7.Quality management plan development
+ 8. Plan approvals
+## Execution
+1. Resources collection
+2. Fixing essentials of the website
+3. Develop a prototype
+4. Approval for the prototype
+5. Designing unit test cases
+6. Begin the development
+7. Finish the development
 
-4.	Testing
-4.1.	Unit Testing
-4.2.	Design test cases
-4.3.	Integration Testing
-4.4.	System Testing
-4.5.	User Acceptance Testing
-4.6.	Testing complete
+## Testing
+1. Unit Testing
+2. Design test cases
+3. Integration Testing
+4. System Testing
+5. User Acceptance Testing
+6. Testing complete
 
-5.	Monitoring and Controlling
-5.1.	Verification of system for bugs
-5.2.	Response to reported bugs
+## Monitoring and Controlling
+1. Verification of system for bugs
+2. Response to reported bugs
 
-6.	Closing
-6.1.	Complete documentation about project
-6.2.	Project demo
-6.3.	Project hand over
+## Closing
+1. Complete documentation about project
+2. Project demo
+3. Project hand over
 
  
  
