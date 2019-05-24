@@ -1,4 +1,4 @@
-# Work Breakdown Structure			
+# WORK BREAKDOWN STRUCTURE			
 
 
 # Initiation
