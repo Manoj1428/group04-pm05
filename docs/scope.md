@@ -25,21 +25,21 @@
 
 
 # Work Breakdown Structure (WBS)
-- Prepared By: Farheen Mohammad                                             	   	                                                  - Date: 05/13/2019
+- Prepared By: Farheen Mohammad                                             	   	                                                   Date: 05/13/2019
 
-1.	Project Initiation
-1.1.	Stakeholder Identification
-1.2.	Select Project Team
-1.3.	Project charter development
-1.4.	Review Project Charter
-1.5.	Project charter Approval
+1. Project Initiation
+ 1.1. Stakeholder Identification
+ 1.2. Select Project Team
+ 1.3. Project charter development
+ 1.4. Review Project Charter
+ 1.5. Project charter Approval
 
-2.	Planning
-2.1.	Develop scope statement
-2.2.	Develop requirement management plan
-2.3.	Project planning
-2.4.	Design requirement traceability matrix
-2.5.	Design cost management plan
+2. Planning
+ 2.1. Develop scope statement
+ 2.2. Develop requirement management plan
+ 2.3.	Project planning
+ 2.4.	Design requirement traceability matrix
+ 2.5.	Design cost management plan
 2.6.	Design project management plan
 2.7.	Quality management plan development
 2.8.	Plan approvals
