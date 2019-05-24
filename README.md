@@ -11,7 +11,7 @@
  ## Project Work Breakdown structure  Link
   https://github.com/Manoj1428/group04-pm05/blob/master/docs/wbs.md
  ## project cost estimation and budget 
-  https://github.com/Manoj1428/group04-pm05/blob/master/docs/costest.md
+  https://github.com/Manoj1428/group04-pm05/blob/master/docs/cost_budgetEstimation.md
  ## Team name 
  - Hawk Eyes
  ## Team member names 
