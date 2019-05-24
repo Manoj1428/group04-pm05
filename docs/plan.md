@@ -104,11 +104,11 @@ The application Project Management FunctionBox must be error free, user friendly
 ## Project Management Plan
 
 <table style="width:100%;border: 1px solid black;">
-<tr>CEO</tr>
-<tr>Project Manager</tr>
-<tr>Administrator/Team leader</tr>
-<tr>Analyst</tr>
-<tr>Programmer</tr>
+<th>CEO</th>
+<th>Project Manager</th>
+<th>Administrator/Team leader</th>
+<th>Analyst</th>
+<th>Programmer</th>
   </table>
 
 ## Organizational Boundaries and Interfaces
