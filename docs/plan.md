@@ -14,7 +14,7 @@ Manasa Goriparthi (s534782@nwmissouri.edu)
 This application helps students learn Project Management course easily and also they can track their progress academically.
 
 ## Project Success Criteria
-The application R&A must be error free, user friendly and entire application need to be tested to meet the customer requirements and satisfaction. 
+The application Project Management FunctionBox must be error free, user friendly and entire application need to be tested to meet the customer requirements and satisfaction. 
 
 ## Approach
 -	Firstly we need to estimate the cost based on the requirements and develop a project plan.
