@@ -23,3 +23,50 @@
  - Dr. Denise Case
  #### Team logo
   ![logo](https://www.logolynx.com/images/logolynx/e3/e3887c2ed28bc32461f57852b954a156.png)
+  
+  |Knowledge Areas|	Artifacts	|Member Responsible|
+  |---------------|-----------|------------------|
+  |1.	Project Integration Management|	Project Charter|Naga Sai Manoj Goppisetty|
+  ||Project Management Plan	|Nithya vudayamarri|
+  |2.	Project Scope Management	|Requirement Management Plan	|Manasa Goripathi|
+  ||Requirements specifications Document|	Farheen Mohammad|
+  ||Scope Management Plan	|Manasa Goripathi|
+||Scope Statement|	Nithya vudayamarri|
+||Work Breakdown Structure	|Naga Sai Manoj Goppisetty|
+|3.	Project Time Management|	Schedule management plan 	Gantt charts	|Naga Sai Manoj Goppisetty|
+|4.	Project Cost Management|	Cost management	Cost estimation and determine budget	|Nithya vudayamarri|
+|5.	Project Quality Management	Quality management plan|Items included for Quality control|	Manasa Goripathi|
+|| Benchmarking against other products or projects|	Naga Sai Manoj Goppisetty|
+||Measurement regarding types of defects	|Farheen Mohammad|
+|6.	Project Human Resources Management	Human resources management plan| Project organizational charts|	Farheen Mohammad|
+|| Responsibility assignment matrices	|BManasa Goripathi|
+|| Resource histograms	|Manasa Goripathi|
+|7.	Project Communications Management	Communication management plan| Stakeholder Communication analysis	|Nithya vudayamarri|
+|8.Project Risk Management	Risk management plan|Risk register	|Naga Sai Manoj Goppisetty|
+||Risk mitigation strategies	|Farheen Mohammad|
+|9.Project Procurement Management	Procurement management plan| Statement of Work	|	Manasa Goripathi|
+|| Request for proposal|	Naga Sai Manoj Goppisetty|
+|10.Project Stakeholder Management	Stakeholder management plan|Stakeholder register|	Nithya vudayamarri|
+||Stakeholder analysis|	Naga Sai Manoj Goppisetty|
+|| Issue log|	Farheen Mohammad|
+||Final Presentation	|Nithya vudayamarri Naga Sai Manoj Goppisetty Manasa Goripathi Farheen Mohammad|
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
