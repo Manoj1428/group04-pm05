@@ -104,9 +104,9 @@ The application R&A must be error free, user friendly and entire application nee
 ## Project Management Plan
 
 <table style="width:100%;border: 1px solid black;">
-<tr>
+
 <th>CEO</th>
-</tr>
+
 <th>Project Manager</th>
 <th>Administrator/Team leader</th>
 <th>Analyst</th>
