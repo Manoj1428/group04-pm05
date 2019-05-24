@@ -25,7 +25,7 @@
 
 
 # Work Breakdown Structure (WBS)
-- Prepared By: Farheen Mohammad                                             	   	                                                   Date: 05/13/2019
+## Prepared By: Farheen Mohammad                                             	   	                                                 - Date: 05/13/2019
 
 1. Project Initiation
  1.1. Stakeholder Identification
