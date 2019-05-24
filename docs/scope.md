@@ -27,14 +27,14 @@
 # Work Breakdown Structure (WBS)
 ## Prepared By: Farheen Mohammad                                             	   	                                                 - Date: 05/13/2019
 
-## Project Initiation
+## 1. Project Initiation
  1. Stakeholder Identification
  2. Select Project Team
  3. Project charter development
  4. Review Project Charter
  5. Project charter Approval
 
-## Planning
+## 2. Planning
  1. Develop scope statement
  2. Develop requirement management plan
  3. Project planning
@@ -43,7 +43,7 @@
  6.Design project management plan
  7.Quality management plan development
  8. Plan approvals
-## Execution
+## 3. Execution
 1. Resources collection
 2. Fixing essentials of the website
 3. Develop a prototype
@@ -52,7 +52,7 @@
 6. Begin the development
 7. Finish the development
 
-## Testing
+## 4. Testing
 1. Unit Testing
 2. Design test cases
 3. Integration Testing
@@ -60,11 +60,11 @@
 5. User Acceptance Testing
 6. Testing complete
 
-## Monitoring and Controlling
+## 5. Monitoring and Controlling
 1. Verification of system for bugs
 2. Response to reported bugs
 
-## Closing
+## 6. Closing
 1. Complete documentation about project
 2. Project demo
 3. Project hand over
