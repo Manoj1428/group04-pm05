@@ -122,5 +122,18 @@ The application R&A must be error free, user friendly and entire application nee
 - Project manager ensures that the final product must satisfy customers and sponsors. Management Authority reviews monthly status to Prioritize that the team meets all the requirements within the time and budget. 
  
 ## Constraints
+
 - The main motto of the project is to meet the organization triple constraints which are scope, time and cost.
+
+## Risk Management
+
+- Risk Management team will identify the risks in upgrading process and plans appropriate actions to manage them by analyzing root cause.
+
+## Monitoring and Controlling Mechanism
+
+- ensures that the project deliverables will be reviewed regularly and controls if any inappropriate performance occurs by identifying and solving issues throughout the project.
+
+## Staffing Plan
+
+- The project requires project manager, program manager, database analyst, finance analyst, programmers, test engineers and other staff. All the staff must be highly skilled and trained.
 
