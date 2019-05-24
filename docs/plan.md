@@ -114,3 +114,7 @@ The application R&A must be error free, user friendly and entire application nee
 ## Organizational Boundaries and Interfaces
 
 - Our organizational structure follows in the same manner mentioned in the above diagram. We have both technical and non-technical team to make right decisions in respective areas and to implement them.
+
+## Project Responsibilities:
+- Project must meet the requirements of the sponsor and it should satisfy the customer. Project manager need to coordinate with every individual who works for the project and try to get the good work from them. Project must have completed within the time and allocated budget. There should not be defects in the software that has been developed. Accuracy of the deliverable must be high.
+
