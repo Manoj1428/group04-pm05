@@ -100,3 +100,14 @@ The application R&A must be error free, user friendly and entire application nee
 
 ## Comments
 - Handwritten or typed comments, if applicable.
+
+## Project Management Plan
+
+<table style="width:100%;border: 1px solid black;">
+<tr>
+<th>CEO</th>
+</tr>
+<td>Project Manager</td>
+<td>Administrator/Team leader</td>
+<td>Analyst</td>
+<td>Programmer</td>
