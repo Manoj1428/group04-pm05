@@ -1,3 +1,4 @@
+# Project Scope Management
 ##	To prepare a detailed project management scope statement
 -	Using the feedback from the employee and user, an analysis will be conducted on software applications used by the company.
 -	From this information, the project requirements documentation, management plan, and a traceability matrix are developed which need to be accomplished by the software applications. 
