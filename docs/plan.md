@@ -108,6 +108,6 @@ The application R&A must be error free, user friendly and entire application nee
 <th>CEO</th>
 </tr>
 <td>Project Manager</td>
-<td>Administrator/Team leader</td>
+<tr>Administrator/Team leader</tr>
 <td>Analyst</td>
 <td>Programmer</td>
