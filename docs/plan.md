@@ -137,3 +137,22 @@ The application R&A must be error free, user friendly and entire application nee
 
 - The project requires project manager, program manager, database analyst, finance analyst, programmers, test engineers and other staff. All the staff must be highly skilled and trained.
 
+## Methods, Tools, and Techniques
+- Android and IOS are used as environments for website where we use JAVA Full Stack, Spring, hibernate, MVC, JavaScript and PL/SQL technologies and database is Oracle 12c. Tools used are Microsoft Visio, MS Project, NetBeans and Visual Studio.
+
+## Software Documentation
+All the rules are documented by every team member and should be sent to project manager for review.
+
+## Project Support Functions
+Based on requirements, time, scope and budget project plan is prepared by Project manager. Daily scrums are conducted for effective Project plan and suggestions are accepted by managers. This document should be monitored and controlled changes throughout the project life cycle.
+
+## Work Packages
+The project charter, project plan, requirement analysis, hardware and software installation, resource gathering and allocation, develop the code, make changes if required, document the lessons learnt, monitor and control the application, implement the code, final documentation of the project and release the product and divide into subtasks.
+ 
+## Requirements
+This project requires 40 people each are assigned with desktop and workspace, Place Marker Android, 2 MacBook’s and enough budget for the successful completion of a project.
+ 
+## Budget and Resource Allocation
+The budget of this project is $650,000 and Project manager will allocate all the resources to certain tasks based on usage, roles and responsibilities.
+ 
+
