@@ -49,10 +49,7 @@
 |10.Project Stakeholder Management	Stakeholder management plan|Stakeholder register|	Nithya vudayamarri|
 ||Stakeholder analysis|	Naga Sai Manoj Goppisetty|
 || Issue log|	Farheen Mohammad|
-||Final Presentation	|Nithya vudayamarri 
-Naga Sai Manoj Goppisetty 
-Manasa Goripathi 
-Farheen Mohammad|
+||Final Presentation	|Nithya vudayamarri Naga Sai Manoj Goppisetty   Manasa Goripathi   Farheen Mohammad|
 
 ## Team Signatures:-
 Nithya vudayamarri S534641
