@@ -21,10 +21,10 @@
  |      3.4 Server	|1|	$500| 	$500||| 		
 |4.Testing (15% of total project cost)||||				$45,000| 	15.00%|
 |5.Training and support||||				$31,500| 	10.50%|
-|        5.1 Trainee cost	|20|	$100| 	$2,000||| 		
-        |5.2 Travel cost	|10	|$150 	|$1,500 		|||
-        | 5.3 Project Team members|	400|	$70 |	$28,000 |||		
- |6.Reserves|||||				|$7,100 	|2.37%|
+|  5.1 Trainee cost	|20|	$100| 	$2,000||| 		
+|5.2 Travel cost	|10	|$150 	|$1,500 		|||
+| 5.3 Project Team members|	400|	$70 |	$28,000 |||		
+|6.Reserves||||				|$7,100 	|2.37%|
 |Total Project Cost Estimates||||				$300,000|| 	
 
 
