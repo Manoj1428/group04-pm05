@@ -106,11 +106,10 @@ The application R&A must be error free, user friendly and entire application nee
 <table style="width:100%;border: 1px solid black;">
 
 <th>CEO</th>
-
 <th>Project Manager</th>
 <th>Administrator/Team leader</th>
 <th>Analyst</th>
 <th>Programmer</th>
 
-## Organizational Boundaries and Interfaces:
-- Our organizational structure follows in the same manner mentioned in the above diagram. We have both technical and non-technical team to make right decisions in respective areas and to implement them.
+## Organizational Boundaries and Interfaces
+Our organizational structure follows in the same manner mentioned in the above diagram. We have both technical and non-technical team to make right decisions in respective areas and to implement them.
