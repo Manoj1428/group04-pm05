@@ -153,6 +153,6 @@ The project charter, project plan, requirement analysis, hardware and software i
 This project requires 40 people each are assigned with desktop and workspace, Place Marker Android, 2 MacBook’s and enough budget for the successful completion of a project.
  
 ## Budget and Resource Allocation
-The budget of this project is $650,000 and Project manager will allocate all the resources to certain tasks based on usage, roles and responsibilities.
+The budget of this project is $1500 and Project manager will allocate all the resources to certain tasks based on usage, roles and responsibilities.
  
 
