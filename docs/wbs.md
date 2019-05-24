@@ -1,14 +1,14 @@
 # WORK BREAKDOWN STRUCTURE			
 
 
-# Initiation
+# Project Initiation
 ## Stakeholder Identification
 ## Select Project Manager
 ## Develop Project Charter
 ## Approval of Project charter
 ## Review Project Charter
 
-# Planning
+# Project Planning
 ## Develop Scope statement
 ## Develop Requirement Management Plan
 ## Develop project plan
@@ -19,7 +19,7 @@
 ## Develop Project Management Plan
 ## Approval of all plans 
 
-# Execution
+# Project Execution
 ## Obtain all the resources required
 ## Decide components of the website
 ## Develop a prototype
@@ -27,18 +27,18 @@
 ## Start the development 
 ## Finish the development
 
-# Testing
+# Project Testing
 ## Unit Testing
 ## Integration Testing
 ## System Testing
 ## User Acceptance Testing
 ## Testing Complete
 
-# Monitoring and Controlling
+# Project Monitoring and Controlling
 ## Track the system for bugs
 ## Response to complaints
 
-# Closing
+# Project Closing
 ## Document the lessons learned
 ## Project Demo
 ## Project Hand over
