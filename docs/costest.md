@@ -11,5 +11,21 @@
 |1.4 Developers	     |        500	|         $80 	| $40,000   |                   |            | 
 |1.5 Database Administrator	|300	|$100 |	              $30,000||| 
 |1.6 System Administrator|	300|	$100| 	$30,000||| 
+|2.Hardware||||				$10,000| 	3.33%|
+|      2.1 Lenovo Laptops|	15|	$400| 	$6,000||| 		
+|      2.2 MAC Laptops	|4	|$1,000 	|$4,000 |||		
+|3.Software      		|	|||	$4,400| 	1.47%|
+|      3.1 MS Office licenses|	15|	$160 	|$2,400||| 		
+ |     3.2 XCode licenses	|4|	$150| 	$600||| 		
+ |     3.3 Cloud Database |	30	|$30 |	$900 		|||
+ |      3.4 Server	|1|	$500| 	$500||| 		
+|4.Testing (15% of total project cost)||||				$45,000| 	15.00%|
+|5.Training and support||||				$31,500| 	10.50%|
+|        5.1 Trainee cost	|20|	$100| 	$2,000||| 		
+        |5.2 Travel cost	|10	|$150 	|$1,500 		|||
+        | 5.3 Project Team members|	400|	$70 |	$28,000 |||		
+ |6.Reserves|||||				|$7,100 	|2.37%|
+|Total Project Cost Estimates||||				$300,000|| 	
+
 
  
