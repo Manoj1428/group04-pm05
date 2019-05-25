@@ -16,7 +16,7 @@
 - [gantt chart Raw file](https://github.com/Manoj1428/group04-pm05/blob/master/docs/group4hawksfinalchart.pod)
 - [Screenshot image](https://github.com/Manoj1428/group04-pm05/blob/master/docs/gantt.png?raw=true)
 ## Project sprints schedule
-https://github.com/Manoj1428/group04-pm05/blob/master/docs/sprintscheduling
+https://github.com/Manoj1428/group04-pm05/blob/master/docs/sprint.md
  ## Team name 
  - Hawk Eyes
  ## Team member names 
