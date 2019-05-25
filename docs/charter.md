@@ -76,7 +76,7 @@ We Deliver:
 |Dr.Case                  | Professor   |dcase@nwmissouri.edu |MENTOR |     
 |Naga Sai Manoj Goppisetty| Business Analyst |S534885@gmail.edu | Team Lead |
 | Nithya vudayamari       |Administrator | S534641@nwmissouri.edu| Team Member|
-|  Manasa Goripathi       |HR | S534782@nwmissouri.edu | Team Member|
+|  Manasa Goripathi       |Project Manager | S534782@nwmissouri.edu | Team Member|
 | Farheen Mohammad        | Developer|s534880@nwmissouri.edu| Team Member |
 
 
