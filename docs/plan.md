@@ -217,7 +217,7 @@ The Project management-related deliverables- business case, charter, team contra
 3. User friendly and happy operating features for employee.
 
 # Project scheduling
-![chart](https://github.com/Manoj1428/group04-pm05/blob/master/docs/gantt.png?raw=true)
+![Ganttchart](https://github.com/Manoj1428/group04-pm05/blob/master/docs/gantt.png?raw=true)
 
 
 
