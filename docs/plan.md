@@ -19,7 +19,7 @@ The application Project Management FunctionBox must be error free, user friendly
 ## Approach
 -	Firstly we need to estimate the cost based on the requirements and develop a project plan.
 -	Install and setup work area and softwares required in the early stage.
--   Business Analysts need to be hired to gather and work on the client requirements.
+- Business Analysts need to be hired to gather and work on the client requirements.
 -	Scrum meetings need to be conducted to know the project progress and to resolve the issues.
 -	Application need to be thoroughly tested before the project is delivered.
 
