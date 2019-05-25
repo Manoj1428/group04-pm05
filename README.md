@@ -13,8 +13,8 @@
  ## project cost estimation and budget 
   https://github.com/Manoj1428/group04-pm05/blob/master/docs/cost_budgetEstimation.md
 ## Project gantt chart file and image 
-[raw file](https://github.com/Manoj1428/group04-pm05/blob/master/docs/group4hawksfinalchart.pod)
-[image](https://github.com/Manoj1428/group04-pm05/blob/master/docs/gantt.png?raw=true)
+- [gantt chart Raw file](https://github.com/Manoj1428/group04-pm05/blob/master/docs/group4hawksfinalchart.pod)
+- [Screenshot image](https://github.com/Manoj1428/group04-pm05/blob/master/docs/gantt.png?raw=true)
  ## Team name 
  - Hawk Eyes
  ## Team member names 
