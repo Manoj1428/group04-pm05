@@ -56,8 +56,8 @@ https://github.com/Manoj1428/group04-pm05/blob/master/docs/group4hawksfinalchart
 ## Team Signatures:-
 - Nithya vudayamarri S534641
 - Naga Sai Manoj Goppisetty S534885
-- Manasa Goriparthi s534782
-- Farheen Mohammad s534800
+- Manasa Goriparthi S534782
+- Farheen Mohammad S534800
 
 
 
