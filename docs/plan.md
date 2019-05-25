@@ -123,7 +123,7 @@ The application Project Management FunctionBox must be error free, user friendly
  
 ## Constraints
 
-- The main motto of the project is to meet the organization triple constraints which are scope, time and cost.
+- The main objective of the project is to meet the organization triple constraints which are scope, time and cost.
 
 ## Risk Management
 
