@@ -187,3 +187,34 @@ The budget of this project is $1500 and Project manager will allocate all the re
 -	If the change request receives initial approval by the project director and sponsor, the project director will then formally submit the change request to the change control board (CCB) which either approves the change by signing document or denies it.
 -	Upon acceptance of the scope change by the CCB and project sponsor the project director will update all project documents and communicate the scope change to all project team member’s stakeholders.
 
+# SCOPE STATEMENT
+
+## Project Title: Project Management FunctionBox                                    
+## Date: 05/24/2019
+
+
+## Project Justification
+This application helps students learn Project Management course easily and also they can track their progress academically.
+
+## Product Characteristics and Requirements
+1. All the authorized employees should be able to access the web portal in the company by providing their credentials.
+2. Different tabs are provided for different purposes where navigation from one part to other is easy 
+3. Friendly user interface which makes search and entry easy
+4. 24/7 availability of maintenance. Proper contacting medium for queries and solutions.
+
+## Summary of Project Deliverables
+The Project management-related deliverables- business case, charter, team contract, scope statement, WBS, schedule, cost baseline, status reports, final project presentation, final project report, lessons-learned report, and any other documents required to manage the project.
+
+## Product-related deliverables  
+1. A mockup of how the website will look and work.
+2. A website with no functionality embedded in it but shows how the website will look. 
+3. A website including functionalities is presented and will be open for changes. 
+4. A finalized web portal is developed using client requirements and delivered.
+
+## Project Success Criteria
+1. On time delivery of deliverables to client.
+2. Client satisfaction with the web portal.
+3. User friendly and happy operating features for employee.
+
+
+
