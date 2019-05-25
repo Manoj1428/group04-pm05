@@ -12,6 +12,8 @@
   https://github.com/Manoj1428/group04-pm05/blob/master/docs/wbs.md
  ## project cost estimation and budget 
   https://github.com/Manoj1428/group04-pm05/blob/master/docs/cost_budgetEstimation.md
+## Project gantt chart 
+https://github.com/Manoj1428/group04-pm05/blob/master/docs/group4hawksfinalchart.pod
  ## Team name 
  - Hawk Eyes
  ## Team member names 
