@@ -110,8 +110,6 @@ The application Project Management FunctionBox must be error free, user friendly
 <th>Analyst</th>
 <th>Programmer</th>
   </table>
-   ____________________________
-  |___CEO_________________________|
 
 ## Organizational Boundaries and Interfaces
 
