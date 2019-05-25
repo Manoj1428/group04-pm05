@@ -149,7 +149,7 @@ Based on requirements, time, scope and budget project plan is prepared by Projec
 ## Work Packages
 The project charter, project plan, requirement analysis, hardware and software installation, resource gathering and allocation, develop the code, make changes if required, document the lessons learnt, monitor and control the application, implement the code, final documentation of the project and release the product and divide into subtasks.
  
-## Requirements
+## Requirements specs
 This project requires 40 people each are assigned with desktop and workspace, Place Marker Android, 2 MacBook’s and enough budget for the successful completion of a project.
  
 ## Budget and Resource Allocation
@@ -215,6 +215,9 @@ The Project management-related deliverables- business case, charter, team contra
 1. On time delivery of deliverables to client.
 2. Client satisfaction with the web portal.
 3. User friendly and happy operating features for employee.
+
+# Project scheduling
+![chart](https://github.com/Manoj1428/group04-pm05/blob/master/docs/gantt.png?raw=true)
 
 
 
