@@ -190,7 +190,7 @@ The budget of this project is $1500 and Project manager will allocate all the re
 # SCOPE STATEMENT
 
 ## Project Title: Project Management FunctionBox                                    
-## Date: 05/24/2019
+## Date: 05/20/2019
 
 
 ## Project Justification
