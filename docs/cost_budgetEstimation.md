@@ -14,7 +14,7 @@
 |1.6 System Administrator|	200|	$100| 	$20,000||| 
 |2.Hardware||||				$14,000| 	6.96%|
 |      2.1 Lenovo Laptops|	20|	$400| 	$8,000||| 		
-|      2.2 MAC Laptops	|6	|$1,000 	|$6,000 |||		
+|      2.2 Ethernet cables & Iphones	|6	|$1,000 	|$6,000 |||		
 |3.Software      		|	|||	$4,400| 	2.18%|
 |      3.1 MS Office licenses|	15|	$160 	|$2,400||| 		
  |     3.2 XCode licenses	|6|	$150| 	$900||| 		
@@ -24,7 +24,7 @@
 |5.Training and support||||				$31,500| 	15.60%|
 |  5.1 Trainee cost	|20|	$100| 	$2,000||| 		
 | 5.2 Project Team members|	400|	$70 |	$28,000 |||		
-|6.Reserves||||				|$7,100 	|3.53%|
+|6.Miscellaneous||||				|$7,100 	|3.53%|
 |Total Project Cost Estimates||||				$201,000|| 	
 
 
