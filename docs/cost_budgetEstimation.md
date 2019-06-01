@@ -23,8 +23,7 @@
 |4.Testing (20% of total project cost)||||				$40,000| 	19.9%|
 |5.Training and support||||				$31,500| 	15.60%|
 |  5.1 Trainee cost	|20|	$100| 	$2,000||| 		
-|5.2 Travel cost	|10	|$150 	|$1,500 		|||
-| 5.3 Project Team members|	400|	$70 |	$28,000 |||		
+| 5.2 Project Team members|	400|	$70 |	$28,000 |||		
 |6.Reserves||||				|$7,100 	|3.53%|
 |Total Project Cost Estimates||||				$201,000|| 	
 
