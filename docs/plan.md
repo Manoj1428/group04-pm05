@@ -219,5 +219,21 @@ The Project management-related deliverables- business case, charter, team contra
 # Project scheduling
 ![Ganttchart](https://github.com/Manoj1428/group04-pm05/blob/master/docs/gantt.png?raw=true)
 
+## Project Quality Management
+
+## Project Resource Management
+### Human Resources Management plan:-
+### Project Organizational Charts
+
+|CEO|
+|------|
+|TOP LEVEL|Project Manager|
+|MIDDLE LEVEL|Team Lead| Business Analyst | HR| Database Admdin|
+|LOW LEVEL|Developer| Testing | Engineer |
+
+## Project Communications Management
+
+## Project Risk Management
+
 
 
