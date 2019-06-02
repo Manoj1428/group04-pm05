@@ -298,11 +298,11 @@ The following RACI chart shows the relationship between project tasks and team m
 |In different areas new employees must be recruited| 	Knowledge transfer on the project from one employee to other|The product released into the market and customer making is familiar with it|	Licenses cost  if new software or systems needed|
  
  
-|New employees cost|	Defining the scope|Competition in the market and knowing to innovating it|Allocating the extra cost of 15% for any unknown requirements|
+|New employees cost|Defining the scope|Competition in the market and knowing to innovating it| Allocating the extra cost of 15% for any unknown requirements|
  
 
-|Sessions for Knowledge transfer|Quality Deliverable and reviewing it before releasing   it into the market|	 |	All the inflow and outflow of cost should be documented||
- 	||Using WBS||	 	|Frequency of monitoring project|
+|Sessions for Knowledge transfer|Quality Deliverable and reviewing it before releasing   it into the market||All the inflow and outflow of cost should be documented|
+ 	||Using WBS||	 Frequency of monitoring project|
 
 
 
