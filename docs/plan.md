@@ -226,7 +226,7 @@ The Project management-related deliverables- business case, charter, team contra
 ### Project Organizational Charts
 
 |CEO|
-|------|
+|------|--------|-------|--------|--------|
 |TOP LEVEL|Project Manager|
 |MIDDLE LEVEL|Team Lead| Business Analyst | HR| Database Admdin|
 |LOW LEVEL|Developer| Testing | Engineer |
