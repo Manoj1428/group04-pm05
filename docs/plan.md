@@ -237,10 +237,8 @@ The quality management plan identifies these key components:
 
 |Objects of quality review	|Quality Measure| 	Quality Evaluation Methods|
 |----------|---|-----|
-|Project Deliverables	|1.Deliverable Quality Standards 
-2.Customer Satisfaction	|Quality Control Activities|
-|Project Processes	|1.Process Quality Standards
-2.Stakeholder Expectations	|Quality Assurance Activities|
+|Project Deliverables	|1.Deliverable Quality Standards 2.Customer Satisfaction	|Quality Control Activities|
+|Project Processes	|1.Process Quality Standards 2.Stakeholder Expectations	|Quality Assurance Activities|
 
 
 
