@@ -273,7 +273,7 @@ The following RACI chart shows the relationship between project tasks and team m
 
 |Stakeholders|	Document Name|	Document Format|	Contact Person|	Due|
 |------|---------|----------|----------|--------|
-|Project Manager|	Project status report|	Email|	s534884@nwmissouri.edu	|Every week|
+|Project Manager|	Project status report|	Email|	s534782@nwmissouri.edu	|Every week|
 |Team Lead	|Project status report|	Email	|S534885@nwmissouri.edu	|Every week|
 |Team Lead	|Project deliverable report|	Email	|S534885@nwmissouri.edu	|Every release|
 |Team member	|Wiki updates|	Inernet	|s534641@nwmissouri.edu		|Alternate Days|
