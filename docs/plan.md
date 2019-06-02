@@ -220,6 +220,29 @@ The Project management-related deliverables- business case, charter, team contra
 ![Ganttchart](https://github.com/Manoj1428/group04-pm05/blob/master/docs/gantt.png?raw=true)
 
 ## Project Quality Management
+### Quality Management Plan:-
+The goals for quality management our  project are to assure: 
+- Project deliverables  should meet our stated requirements.
+- Project management processes are appropriately followed.
+Quality management is performed all through the project lifecycle with respect to :
+- Quality Planning – Primarily during our project planning process.
+- Quality Assurance  – Primarily during our project execution process.
+-  Quality Control  – Primarily during our project monitoring and controlling process.
+- Independent Verification & Validation  – ideally performed in all our project processes except initiation.
+
+
+
+
+The quality management plan identifies these key components:
+
+|Objects of quality review	|Quality Measure| 	Quality Evaluation Methods|
+|----------|---|-----|
+|Project Deliverables	|1.Deliverable Quality Standards 2.Customer Satisfaction	|Quality Control Activities|
+|Project Processes	|1.Process Quality Standards 2.Stakeholder Expectations	|Quality Assurance Activities|
+
+
+
+
 
 ## Project Resource Management
 ### Human Resources Management plan:-
