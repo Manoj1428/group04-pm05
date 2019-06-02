@@ -240,6 +240,20 @@ The quality management plan identifies these key components:
 |Project Deliverables	|1.Deliverable Quality Standards 2.Customer Satisfaction	|Quality Control Activities|
 |Project Processes	|1.Process Quality Standards 2.Stakeholder Expectations	|Quality Assurance Activities|
 
+## Quality Assurance 
+
+Quality assurance ensures that project processes are used effectively to produce quality project deliverables. It involves following and meeting standards, continuously improving project work, and correcting project defects.
+
+The following table identifies:
+- The project processes subject to quality assurance.
+- The quality standards and stakeholder expectations for that process.
+- The quality assurance activity – e.g., quality audit or reviews, code review - that will be executed to monitor that project processes are properly followed. 
+
+|Project Process| Stakeholder Expectations	|Quality Assurance Activity	|Interval	|Who is Responsible|
+|---------|----|---------|------|-----|
+|Example: Reviewing software development exercies of software application A|	1.Software requirements specification 2.Developers have accurately captured application requirements|	Peer review of software requirements specification|	At regular intervals during the collection of requirements and a final review at the conclusion of requirements collection|	Lead developers in accordance with other knowledgeable developers|
+||||||
+
 
 
 
