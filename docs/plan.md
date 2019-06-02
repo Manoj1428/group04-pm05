@@ -225,11 +225,11 @@ The Project management-related deliverables- business case, charter, team contra
 ### Human Resources Management plan:-
 ### Project Organizational Charts
 
-|CEO|
+|CEO|||||
 |------|--------|-------|--------|--------|
-|TOP LEVEL|Project Manager|
+|TOP LEVEL|Project Manager||||
 |MIDDLE LEVEL|Team Lead| Business Analyst | HR| Database Admdin|
-|LOW LEVEL|Developer| Testing | Engineer |
+|LOW LEVEL|Developer| Testing | Senior Engineer | Interns|
 
 ## Project Communications Management
 
