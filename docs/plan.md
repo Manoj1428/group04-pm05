@@ -266,6 +266,22 @@ The following RACI chart shows the relationship between project tasks and team m
 ## Escalation procedures
 -The problems occur in the project needs to be resolved in a systematic way by raising tickets and solving them based on priority of the issue without missing SLAs.
 
+|Stakeholders|	Document Name|	Document Format|	Contact Person|	Due|
+|------|---------|----------|----------|--------|
+|Project Manager|	Project status report|	Email|	s534885@nwmissouri.edu	|Every week|
+|Team Lead	|Project status report|	Email	|s534885@nwmissouri.edu	|Every week|
+|Team Lead	|Project deliverable report|	Email	|s534885@nwmissouri.edu	|Every release|
+|Team member	|Wiki updates|	Inernet	|s534885@nwmissouri.edu		|Daily|
+|Team member	|Project documents|	Email	|s534885@nwmissouri.edu	|Daily|
+|Team member	|Project documents|	Email	|s534885@nwmissouri.edu		|Daily|
+|Tester	|Test reports|	Report|	s534885@nwmissouri.edu	|	End of each task|
+|Sponsor|	Budget analysis report	|Hard Copy Report	|s534885@nwmissouri.edu		|One month before project commences|
+
+
+
+
+
+
 
 ## Project Risk Management
 
