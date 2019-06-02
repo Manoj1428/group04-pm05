@@ -234,7 +234,7 @@ The Project management-related deliverables- business case, charter, team contra
 An organizational chart is considered ideal manner for mapping the organization. An Organizational Chart is a tool for identifying personnel and managing the workforce effectively. An organization needs to visualize the company structure in order to understand the role each employee plays in the human resource chain.
 
 ||Project Manager|Design Engineers|Implementation Manager|Training Leads|Functional Managers|Department Managers|
-||--------------|---------|-------------|----------|---------|--------------|
+|---------|--------------|---------|-------------|----------|---------|--------------|
 |Requirements Gathering	|A|	R|	R|	C|	C|	I|
 |Coding Design|	A|	R|	C|	|	C|	I|
 |Coding Input|	A|	R|	||||			
