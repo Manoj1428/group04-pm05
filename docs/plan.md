@@ -225,11 +225,27 @@ The Project management-related deliverables- business case, charter, team contra
 ### Human Resources Management plan:-
 ### Project Organizational Charts
 
-|CEO|||||
+||CEO|CEO|CEO|CEO|
 |------|--------|-------|--------|--------|
 |TOP LEVEL|Project Manager||||
 |MIDDLE LEVEL|Team Lead| Business Analyst | HR| Database Admdin|
 |LOW LEVEL|Developer| Testing | Senior Engineer | Interns|
+
+An organizational chart is considered ideal manner for mapping the organization. An Organizational Chart is a tool for identifying personnel and managing the workforce effectively. An organization needs to visualize the company structure in order to understand the role each employee plays in the human resource chain.
+
+||Project Manager|Design Engineers|Implementation Manager|Training Leads|Functional Managers|Department Managers|
+||--------------|---------|-------------|----------|---------|--------------|
+|Requirements Gathering	|A|	R|	R|	C|	C|	I|
+|Coding Design|	A|	R|	C|	|	C|	I|
+|Coding Input|	A|	R|	||||			
+|Software Testing|	A|	R|	C||		I|	I|
+|Network Preparation|	A|	C|	R||		I|	I|
+|Implementation|	A|	C|	R|	C|	C|	C|
+|Conduct Training|	A|	||		R|	C|	C|
+
+The following RACI chart shows the relationship between project tasks and team members
+
+
 
 ## Project Communications Management
 
