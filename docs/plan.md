@@ -268,14 +268,14 @@ The following RACI chart shows the relationship between project tasks and team m
 
 |Stakeholders|	Document Name|	Document Format|	Contact Person|	Due|
 |------|---------|----------|----------|--------|
-|Project Manager|	Project status report|	Email|	s534885@nwmissouri.edu	|Every week|
-|Team Lead	|Project status report|	Email	|s534885@nwmissouri.edu	|Every week|
-|Team Lead	|Project deliverable report|	Email	|s534885@nwmissouri.edu	|Every release|
-|Team member	|Wiki updates|	Inernet	|s534885@nwmissouri.edu		|Daily|
-|Team member	|Project documents|	Email	|s534885@nwmissouri.edu	|Daily|
-|Team member	|Project documents|	Email	|s534885@nwmissouri.edu		|Daily|
-|Tester	|Test reports|	Report|	s534885@nwmissouri.edu	|	End of each task|
-|Sponsor|	Budget analysis report	|Hard Copy Report	|s534885@nwmissouri.edu		|One month before project commences|
+|Project Manager|	Project status report|	Email|	s534884@nwmissouri.edu	|Every week|
+|Team Lead	|Project status report|	Email	|S534885@nwmissouri.edu	|Every week|
+|Team Lead	|Project deliverable report|	Email	|S534885@nwmissouri.edu	|Every release|
+|Team member	|Wiki updates|	Inernet	|s534641@nwmissouri.edu		|Alternate Days|
+|Team member	|Project documents|	Email	|S534880@nwmissouri.edu	|Daily|
+|Team member	|Project documents|	Email	|S534782@nwmissouri.edu		|Daily|
+|Tester	|Test reports|	Report|	S534641@nwmissouri.edu	|	End of every task|
+|Sponsor|	Budget analysis report	|Hard Copy Report	|S534885@nwmissouri.edu		|One month before project commences|
 
 
 
