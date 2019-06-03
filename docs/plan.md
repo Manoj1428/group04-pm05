@@ -325,7 +325,23 @@ The following RACI chart shows the relationship between project tasks and team m
 
 
 
-## Project Risk Management
+# Project Risk Management
+## Methodology
+-The risks should be indentified and solved before reporting to the Stakeholders so that they try to plan efficiently such that no errors will be seen later in the working level of the projecr tasks.
+## Roles and responsibilites
+-Every one in the team have to strive or work on their responsibilities efficiently and manager should approve the tasks for handling all risk and which are related to risk.
+## Budget and schedule
+-As per the estimated cost of 9.5 Million all the risks should be handled in the budget which is decided as per cost estimation.
+## Risk categories
+-Market risk,cost,technical,resource are examples of the risks that comes under this.
+## Risk probabilites and impact
+-The cost risk is the probability of the risk that we are going to measure when using the new training and technology the new team meambers can include the financial factors of the project.
+## Revised stakeholders tolerance
+-About each level of the project and mitigation risks associated with they will be providing information to stakeholders and convince them so that they would be ready to handle a little amount of risks that occurs in the project.
+## Tracking
+-It includes daily standup meetings and review of the project status that include time,quality and cost of the project that helps to reduce the number of chances that cause the risk and complete the project with quality assurance and low risk.
+## Risk documentation
+-Every step has documentation done and risks will be documented separately and the hard and soft copy of this is be handled to the management. 
 
 ### Risk Mitigation Strategies
 
