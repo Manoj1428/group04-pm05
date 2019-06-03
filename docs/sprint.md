@@ -13,7 +13,8 @@
 |Develop cost management plan|High|1 day|Complete|
 |Develop Project Management Plan|High|1 day|Yet to start|
 |Approval of all plans |Not high|Half Day|Yet to start|
-
+|Obtain all the resources required|High|1 days| In progess|
+|Develop a prototype|Moderate|2 days| In progess|
 
 
 
