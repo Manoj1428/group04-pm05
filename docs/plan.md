@@ -291,22 +291,22 @@ The following RACI chart shows the relationship between project tasks and team m
 
 # Project Communications Management
 ## Introduction
--The Communications Management Plan report is record that aides project correspondences. This decides the data and correspondence needs of the considerable number of partners. It likewise incorporates the contact subtleties of the considerable number of partners alongside their capable records.
+- The Communications Management Plan report is record that aides project correspondences. This decides the data and correspondence needs of the considerable number of partners. It likewise incorporates the contact subtleties of the considerable number of partners alongside their capable records.
 ## Collection and filing structure for gathering and storing project information
--The data identified with the task will be accumulated from every one of the partners by leading coordinated cooperation’s. Private data can be put away utilizing google apparatuses to give simple access to partners.
+- The data identified with the task will be accumulated from every one of the partners by leading coordinated cooperation’s. Private data can be put away utilizing google apparatuses to give simple access to partners.
 
 ## Distribution structure (what information goes to whom, when, and how)
--The Project Manager is the primary communicator for the project distributing information when there is a change in plan. He will discuss with client and project team by conducting formal meetings.
+- The Project Manager is the primary communicator for the project distributing information when there is a change in plan. He will discuss with client and project team by conducting formal meetings.
 ## Format, content, and level of detail of key project information
--Key task data is archived dependent on the standard format which is accessible in the online SharePoint. The layout likewise gives insights regarding what substance should be incorporated into it and the dimension of detail of the data can be chosen dependent on the individual prerequisites.
+- Key task data is archived dependent on the standard format which is accessible in the online SharePoint. The layout likewise gives insights regarding what substance should be incorporated into it and the dimension of detail of the data can be chosen dependent on the individual prerequisites.
 ## Generation calendar and assets for delivering key project data 
--With the assistance of day by day status reports and Performance reports the venture chief will follow the assets and their exercises. Status reports will be submitted to partners to know the status. Standard formats of the association will be utilized to make this report.
+- With the assistance of day by day status reports and Performance reports the venture chief will follow the assets and their exercises. Status reports will be submitted to partners to know the status. Standard formats of the association will be utilized to make this report.
 ## Advances, get to strategies, and recurrence of interchanges 
--To make the task related archives and Gantt diagrams we can utilize advancements like MS Project. The made archives can be shared over every one of the partners inside an association utilizing SharePoint and google instruments like google docs, google locales and google slides. The status gatherings are led on week after week premise and scrum gatherings are hung on everyday schedule with every one of the partners.
+- To make the task related archives and Gantt diagrams we can utilize advancements like MS Project. The made archives can be shared over every one of the partners inside an association utilizing SharePoint and google instruments like google docs, google locales and google slides. The status gatherings are led on week after week premise and scrum gatherings are hung on everyday schedule with every one of the partners.
 ## Technique for refreshing the correspondences the board plan 
--Cooperative instruments like SharePoint entrance and other google devices like docs, slides, locales can be utilized to refresh the Communications the executives plan.
+- Cooperative instruments like SharePoint entrance and other google devices like docs, slides, locales can be utilized to refresh the Communications the executives plan.
 ## Escalation procedures
--The problems occur in the project needs to be resolved in a systematic way by raising tickets and solving them based on priority of the issue without missing SLAs.
+- The problems occur in the project needs to be resolved in a systematic way by raising tickets and solving them based on priority of the issue without missing SLAs.
 
 |Stakeholders|	Document Name|	Document Format|	Contact Person|	Due|
 |------|---------|----------|----------|--------|
@@ -327,21 +327,21 @@ The following RACI chart shows the relationship between project tasks and team m
 
 # Project Risk Management
 ## Methodology
--The risks should be indentified and solved before reporting to the Stakeholders so that they try to plan efficiently such that no errors will be seen later in the working level of the projecr tasks.
+- The risks should be indentified and solved before reporting to the Stakeholders so that they try to plan efficiently such that no errors will be seen later in the working level of the projecr tasks.
 ## Roles and responsibilites
--Every one in the team have to strive or work on their responsibilities efficiently and manager should approve the tasks for handling all risk and which are related to risk.
+- Every one in the team have to strive or work on their responsibilities efficiently and manager should approve the tasks for handling all risk and which are related to risk.
 ## Budget and schedule
--As per the estimated cost of 9.5 Million all the risks should be handled in the budget which is decided as per cost estimation.
+- As per the estimated cost of 9.5 Million all the risks should be handled in the budget which is decided as per cost estimation.
 ## Risk categories
--Market risk,cost,technical,resource are examples of the risks that comes under this.
+- Market risk,cost,technical,resource are examples of the risks that comes under this.
 ## Risk probabilites and impact
--The cost risk is the probability of the risk that we are going to measure when using the new training and technology the new team meambers can include the financial factors of the project.
+- The cost risk is the probability of the risk that we are going to measure when using the new training and technology the new team meambers can include the financial factors of the project.
 ## Revised stakeholders tolerance
--About each level of the project and mitigation risks associated with they will be providing information to stakeholders and convince them so that they would be ready to handle a little amount of risks that occurs in the project.
+- About each level of the project and mitigation risks associated with they will be providing information to stakeholders and convince them so that they would be ready to handle a little amount of risks that occurs in the project.
 ## Tracking
--It includes daily standup meetings and review of the project status that include time,quality and cost of the project that helps to reduce the number of chances that cause the risk and complete the project with quality assurance and low risk.
+- It includes daily standup meetings and review of the project status that include time,quality and cost of the project that helps to reduce the number of chances that cause the risk and complete the project with quality assurance and low risk.
 ## Risk documentation
--Every step has documentation done and risks will be documented separately and the hard and soft copy of this is be handled to the management. 
+- Every step has documentation done and risks will be documented separately and the hard and soft copy of this is be handled to the management. 
 
 ### Risk Mitigation Strategies
 
