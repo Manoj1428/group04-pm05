@@ -127,7 +127,7 @@ The application Project Management FunctionBox must be error free, user friendly
 
 ## Risk Management
 
-- Risk Management team will identify the risks in upgrading process and plans appropriate actions to manage them by analyzing root cause.
+- Risk Management team will identify the risks in upgrading process and plans appropriate actions to manage them by analyzing the root cause.
 
 ## Monitoring and Controlling Mechanism
 
