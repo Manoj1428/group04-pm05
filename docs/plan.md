@@ -343,6 +343,8 @@ The following RACI chart shows the relationship between project tasks and team m
 ## Risk documentation
 - Every step has documentation done and risks will be documented separately and the hard and soft copy of this is be handled to the management. 
 
+## Risk Register
+
 ### Risk Mitigation Strategies
 
 
