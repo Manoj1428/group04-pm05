@@ -16,13 +16,10 @@
 |      2.1 Lenovo Laptops|	20|	$400| 	$8,000||| 		
 |      2.2 Ethernet cables & Iphones	|6	|$1,000 	|$6,000 |||		
 |3.Software      		|	|||	$4,400| 	2.18%|
-|      3.1 MS Office licenses|	15|	$160 	|$2,400||| 		
- |     3.2 XCode licenses	|6|	$150| 	$900||| 		
- |     3.3 Cloud Database |	20	|$30 |	$600 		|||
- |      3.4 Server	|1|	$500| 	$500||| 		
+|      3.1 Software licenses|	15|	$160 	|$2,400||| 		
+ |     3.2 Cloud Database |	20	|$30 |	$600 		|||
+ |      3.3 Server	|1|	$500| 	$500||| 		
 |4.Testing (20% of total project cost)||||				$40,000| 	19.9%|
-|5.Training and support||||				$31,500| 	15.60%|
-|  5.1 Trainee cost	|20|	$100| 	$2,000||| 		
 | 5.2 Project Team members|	400|	$70 |	$28,000 |||		
 |6.Miscellaneous||||				|$7,100 	|3.53%|
 |Total Project Cost Estimates||||				$201,000|| 	
