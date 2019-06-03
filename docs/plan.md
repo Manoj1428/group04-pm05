@@ -231,11 +231,11 @@ The goals for quality management our  project are to assure:
 - Project deliverables  should meet our stated requirements.
 - Project management processes are appropriately followed.
 Quality management is performed all through the project lifecycle with respect to :
-||Description|
-|----|----|
+|   |Description|
+|--------------|----------------|
 |Quality Planning |Primarily during our project planning process|
 |Quality Assurance  |Primarily during our project execution process|
-|Quality Control  –|Primarily during our project monitoring and controlling process|
+|Quality Control  |Primarily during our project monitoring and controlling process|
 |Independent Verification & Validation |  ideally performed in all our project processes except initiation|
 
 
