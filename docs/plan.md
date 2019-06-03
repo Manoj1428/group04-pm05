@@ -364,6 +364,7 @@ The following RACI chart shows the relationship between project tasks and team m
 
 
 |Rank|	Risk	Description|	Category|	Root Cause|	Potential Responses|	Risk Owner|	Impact	|Status|
+|------|--------|------|-------|------|------|------|------|
 |1|	Executive Support	|There should be specific commitments for the project from the top level management.  Weak executive support is the biggest risk.	|Structure/Process risk	Commitment from executives	|Risk Avoidance	|Project Manager		|High	|Avoided|
 |2	|Cash flow	|Increase in the budget of the project due to several factors like raise in software price and resources pay etc.	|Financial Risk	|Increase in price of softwares and resource wages	|Risk Acceptance|	Finance Manager		|High	|Anticipated|
 |3	|Scope|	The estimates of quality, dependencies and scope management is wrong or guess is incorrect then there can be a huge risk	Structure/Process risk	|Wrong estimation 	|Risk avoidance	|Project Manager		|High|	Avoided|
