@@ -268,6 +268,11 @@ The focus of quality control is on the deliverables of the project. Quality cont
 - How often or when the quality control activity will be performed.
 - The name of the person responsible for carrying out and reporting on the quality control activity.
 
+|Project Deliverable|	Deliverable Quality Standards/Customer Satisfaction	| Quality Control Activity|Interval|Who is Responsible|
+|------|-----------|---|-----|----|
+|Example:
+Software application A  performs some desirable function B|	A must be free from defects.End user does not experience errors or crashes and is alright with B|	Non-developer testing of A|As released for testing by developer and before A moves between alpha, beta, and production releases	| functional representative|
+
 
 
 
@@ -276,7 +281,7 @@ The focus of quality control is on the deliverables of the project. Quality cont
 
 
 ## Project Resource Management
-### Human Resources Management plan:-
+### Resources management plan:-
 ### Project Organizational Charts
 
 ||CEO|CEO|CEO|CEO|
