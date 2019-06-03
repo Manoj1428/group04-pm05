@@ -337,6 +337,9 @@ The following RACI chart shows the relationship between project tasks and team m
 |Sponsor|	Budget analysis report	|Hard Copy Report	|S534885@nwmissouri.edu		|One month before project commences|
 
 
+### Glossary of terms
+1.Stakeholder - People who are all affected by project activities.
+2.Escalation - The process  which calrifies how issues and conflicts are passed up the management chain resolution and timeframe to achieve resolution.
 
 
 
