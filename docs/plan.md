@@ -220,6 +220,10 @@ The Project management-related deliverables- business case, charter, team contra
 ![Ganttchart](https://github.com/Manoj1428/group04-pm05/blob/master/docs/gantt.png?raw=true)
 
 ## Project Quality Management
+- In our Project, we carry out the Test coverage by exercising the static review techniques like peer reviews, inspections, and walkthrough.
+- We will use the unit testing to validate  each unit in our software performs as designed and to evaluate the system’s compliance with the specified requirements we make use of System testing.
+
+
 ### Quality Management Plan:-
 The goals for quality management our  project are to assure: 
 - Project deliverables  should meet our stated requirements.
