@@ -333,6 +333,7 @@ The following RACI chart shows the relationship between project tasks and team m
 - Cooperative instruments like SharePoint entrance and other google devices like docs, slides, locales can be utilized to refresh the Communications the executives plan.
 ## Escalation procedures
 - The problems occur in the project needs to be resolved in a systematic way by raising tickets and solving them based on priority of the issue without missing SLAs.
+## Stakeholder communications analysis
 
 |Stakeholders|	Document Name|	Document Format|	Contact Person|	Due|
 |------|---------|----------|----------|--------|
