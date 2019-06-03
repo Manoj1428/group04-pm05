@@ -259,6 +259,17 @@ The following table identifies:
 |---------|----|---------|------|-----|
 |Example: Reviewing software development exercies of software application A|	1.Software requirements specification 2.Developers have accurately captured application requirements|	Peer review of software requirements specification|	At regular intervals during the collection of requirements and a final review at the conclusion of requirements collection|	Lead developers in accordance with other knowledgeable developers|
 ||||||
+## Quality Control
+The focus of quality control is on the deliverables of the project. Quality control monitors project deliverables to verify that the deliverables are of acceptable quality and the customer is satisfied.
+
+- The major deliverables of the project that will be tested for acceptable quality level. 
+- The quality standards and customer satisfaction criteria established for the project deliverable. Included are any organizational standards that need to be followed.
+- The quality control activities that will be executed to monitor the quality of the deliverables.
+- How often or when the quality control activity will be performed.
+- The name of the person responsible for carrying out and reporting on the quality control activity.
+
+
+
 
 
 
