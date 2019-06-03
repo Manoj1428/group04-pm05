@@ -337,7 +337,7 @@ The following RACI chart shows the relationship between project tasks and team m
 ## Roles and responsibilites
 - Every one in the team have to strive or work on their responsibilities efficiently and manager should approve the tasks for handling all risk and which are related to risk.
 ## Budget and schedule
-- As per the estimated cost of 9.5 Million all the risks should be handled in the budget which is decided as per cost estimation.
+- As per the estimated cost of 9.5 Million all the risks should be handled in the budget which is decided according to the cost estimation.
 ## Risk categories
 - Market risk,cost,technical,resource are examples of the risks that comes under this.
 ## Risk probabilites and impact
@@ -347,7 +347,7 @@ The following RACI chart shows the relationship between project tasks and team m
 ## Tracking
 - It includes daily standup meetings and review of the project status that include time,quality and cost of the project that helps to reduce the number of chances that cause the risk and complete the project with quality assurance and low risk.
 ## Risk documentation
-- Every step has documentation done and risks will be documented separately and the hard and soft copy of this is be handled to the management. 
+- Every step has documentation done and risks will be documented separately and the hard, soft copy of this is be handled to the management. 
 
 ## Risk Register
 
