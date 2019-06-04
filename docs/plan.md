@@ -310,8 +310,8 @@ An organizational chart is considered ideal manner for mapping the organization.
 
 The following RACI chart shows the relationship between project tasks and team members
 - R Means Responsible for completing the work
-- A Means Answerable to ensure task completion
-- C Means Consulted before any decisions are made
+- A Means Accountability to ensure task completion
+- C Means Consultation before any decisions are made
 - I Means Informed of whenever a decision has been made
 
 
