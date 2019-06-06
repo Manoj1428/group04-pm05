@@ -413,13 +413,15 @@ The work is expected to be started on May 28th and to be finished on September 3
 
 
 - Deliverables Schedule:
-|Deliverable	|Description|	Due date|
+
+
+|Deliverable|Description|Due date|
 |-------|---|----|
-|Project charter|contains information about key schedule milestones, budget information, project manager, project objectives, success criteria, approach, roles and responsibilities of stakeholders	|5/17/19|
+|Project charter|contains information about key schedule milestones, budget information, project manager, project objectives, success criteria, approach, roles and responsibilities of stakeholders|5/17/19|
 |Scope statement|contains project justification, project characteristics and requirements, Project management-related deliverables, Product-related deliverables|5/20/19|
-|Project management plan|contains an introduction of the project, project organization, managerial process, Technical Process, Work packages, schedule, and budget|	5/27/19 |
-|Scope management plan	|contains How to prepare a detailed project scope statement, How to create a Work Breakdown Structure, How to maintain and approve the WBS, How to obtain formal acceptance of the completed project deliverables, How to control requests for changes to the project scope:	|5/29/2019|
-|Schedule management plan	|It contains Project schedule model development, The scheduling methodology, Level of accuracy and units of measure, Control thresholds, Rules of performance measurement, Reporting formats, Process descriptions|	6/13/2016|
+|Project management plan|contains an introduction of the project, project organization, managerial process, Technical Process, Work packages, schedule, and budget|5/27/19 |
+|Scope management plan	|contains How to prepare a detailed project scope statement, How to create a Work Breakdown Structure, How to maintain and approve the WBS, How to obtain formal acceptance of the completed project deliverables, How to control requests for changes to the project scope|5/29/2019|
+|Schedule management plan|It contains Project schedule model development, The scheduling methodology, Level of accuracy and units of measure, Control thresholds, Rules of performance measurement, Reporting formats, Process descriptions|6/13/2016|
 |Stakeholder register|It contains names, position, project role, and contact information of the employee|5/26/2016|
 |Final product|This is the final deliverable product of the project|6/24/2016|
 |Final documentation|This is the final documented report |6/21/2016|
