@@ -15,6 +15,8 @@
 |Approval of all plans |Not high|Half Day|Yet to start|
 |Obtain all the resources required|High|1 days| In progess|
 |Develop a prototype|Moderate|2 days| In progess|
+|Complete documentation|2 days|In progess|
+|Project Demo|2 days|In progess|
 
 
 
@@ -43,8 +45,14 @@
 |Decide components of the website|High|4 days| In progess|
 |Develop a prototype|Moderate|2 days| In progess|
 |Obtain approval for the prototype|High|2 days| Yet to start|
-|Start the development|Not High|2 days| Yet to start|
-|Finish the development|Not High|2 days| Yet to start|
+|Start the development|Not High|2 days| In progess|
+|Finish the development|Not High|2 days| In progess|
+|Verification of system for  bugs|2 days|In progess|
+|Complete documentation|2 days|In progess|
+|Project Demo|2 days|In progess|
+|Project Handover|2 days|In progess|
+
+
 
 
 
