@@ -399,8 +399,6 @@ The following RACI chart shows the relationship between project tasks and team m
  
  
  
- # FROM HERE
- 
  ## Project Procurement Management
  ### Procurement management plan
  
