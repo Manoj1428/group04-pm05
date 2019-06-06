@@ -490,7 +490,6 @@ If the above information is sufficient to move further and start with the projec
 ### Issue log
  |Date Reported|	May 13th|	May 18th|	June 15th|	June 12th|	July 15th|	July 28th|	July 24th|
  |------|-----|------|-----|-------|--------|-------|--------|
- 
 |Status|Closed|	Open|	Closed|	Closed	|Open|	Open	|Open|
 |Due Date|	May 15th |	May 21st|	June 17th	|June 15th|	July 18th|	August 21st	|July 23rd|
 |Priority(H/M/L)|High	|High	|High	|Medium	|High	|High	|High|
