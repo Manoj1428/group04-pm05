@@ -475,6 +475,17 @@ If the above information is sufficient to move further and start with the projec
 ### Stakeholder register
 
 ### Stakeholder analysis
+|Name	|Power/Interest	|Current Engagement	|Potential Management Strategies|
+|-------|------|--------|--------|
+|Kumar Mangalam	|High/Medium	|Neutral	|He has specifications for the project. It is better to involve Kumar in weekly and monthly meetings and take review regarding the deliverables.|
+|Michael Bell	|Medium/High	|Supportive	|He seems to be more interactive, with good communication skills. He has been with the company for many years. He must be involved in weekly discussions for advising.|
+|Brahmani Nare	|High/High	|Leading	|She has nice commanding skills and good programming knowledge. She can monitor the project status.|
+|Lakshmi Pillai	|High/Medium	|Leading	|She has best leadership qualities. She can coordinate with team members and check the project progress.|
+|Swetha Mittal	|Medium/High	|Supportive	|Swetha had experience as a program designers. She can code for any project. She can coordinate with other team members easily. She is a self-motivator.|
+|Kavya Marri	|Medium/Medium	|Resistant	|Kavya is a good programmer. But bad at resolving bugs. She discourages herself for every error. She needs encouragement to work.|
+|Mark David	|Medium/High	|Resistant	|Mark is new to the company. Can organize things in a coordinate way. He need support with other team members to work in coordinating way.|
+|Aanya Gandra	|High/High	|Supportive	|Aanya is good at analyzing people. She can select employees with necessary stuff. She does not need any one to involve in her work, all she needs is an authority over the work.|
+|Manikarnika Jaiswal	|High/High	|QA Tester	|Jaiswal had experience in testing field. She is best at finding out errors. She can detect errors. She needs a team that can coordinate with Jaiswal.|
 
 ### Issue log
  
