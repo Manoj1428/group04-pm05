@@ -488,7 +488,17 @@ If the above information is sufficient to move further and start with the projec
 |Manikarnika Jaiswal	|High/High	|QA Tester	|Jaiswal had experience in testing field. She is best at finding out errors. She can detect errors. She needs a team that can coordinate with Jaiswal.|
 
 ### Issue log
+ |Date Reported|	May 13th|	May 18th|	June 15th|	June 12th|	July 15th|	July 28th|	July 24th|
+ |------|-----|------|-----|-------|--------|-------|--------|
  
+|Status|Closed|	Open|	Closed|	Closed	|Open|	Open	|Open|
+|Due Date|	May 15th |	May 21st|	June 17th	|June 15th|	July 18th|	August 21st	|July 23rd|
+|Priority(H/M/L)|High	|High	|High	|Medium	|High	|High	|High|
+|Assigned to|	Stephen|Tim|	Steve|	George|	Todd|	Mady|	Jenny|
+|Reported by|	John|	Ken|Jeff|	Kim|	Mark|	Leo|	Messy|
+|Comments|	Labeling of requirement is done	Not Finished.| First issue has to be sorted.|	Proper training techniques are implemented.	|Analysis is done and reports are generated|	Few more techniques have been added.|	Few technical people must be hired to complete the task.|
+
+
 
 
 
