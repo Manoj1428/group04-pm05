@@ -437,16 +437,16 @@ To determine the need for the website change to a mobile application
 ### Organizations background:
 The organization has the best support for the and also fits the needs and requirements.
 ### Basic requirements:
-•	Website is converted to mobile application
-•	Must be compatible with both Android and iOS devices.
-•	Before November 2nd week the deployment should be completed
-•	Jdk 1.7 must be used.
-•	Android devices from version 4.1
-•	iOS devices from iOS 7.0 should support.
-•	XCode IDE is used.
-•	Android studio 1.5 compatibility.
-•	Swift version 9 compatibility.
-•	Use of MySQL as the main database.
+- Website is converted to mobile application
+- Must be compatible with both Android and iOS devices.
+- Before November 2nd week the deployment should be completed
+- Jdk 1.7 must be used.
+- Android devices from version 4.1
+- iOS devices from iOS 7.0 should support.
+- XCode IDE is used.
+- Android studio 1.5 compatibility.
+- Swift version 9 compatibility.
+- Use of MySQL as the main database.
 ### Statement of work and Schedule information: 
 ### Scope of work: 
 All the requirements should be met by the project in the actual website and allow people to book, cancel, re-schedule the cab bookings, servers to be available all the time, and high priority should be given to accuracy.
