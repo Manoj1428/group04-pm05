@@ -430,49 +430,46 @@ The work is relied upon to be begun on May 28th and to be done on September 30th
 |Final product|This is the final deliverable product of the project|6/24/2016|
 |Final documentation|This is the final documented report |6/21/2016|
 
- ### Request for proposal
+### Request for proposal
  
 ### Objective: 
 To determine the need for the website change to a mobile application
 ### Organizations background:
 The organization has the best support for the and also fits the needs and requirements.
 ### Basic requirements:
-•	Convert the website to the mobile application.
-•	Should be compatible with both Android and iOS devices.
-•	The deployment should be done before November 2nd week.
-### Hardware and Software Environment:
-•	Jdk 1.7 should be used.
+•	Website is converted to mobile application
+•	Must be compatible with both Android and iOS devices.
+•	Before November 2nd week the deployment should be completed
+•	Jdk 1.7 must be used.
 •	Android devices from version 4.1
 •	iOS devices from iOS 7.0 should support.
-•	XCode IDE is to be used.
+•	XCode IDE is used.
 •	Android studio 1.5 compatibility.
 •	Swift version 9 compatibility.
 •	Use of MySQL as the main database.
 ### Statement of work and Schedule information: 
 ### Scope of work: 
-The project should be able to meet all the requirements in the actual website and allow people to book, cancel, re-schedule the cab bookings, servers to be available all the time, and accuracy should be given high priority.
+All the requirements should be met by the project in the actual website and allow people to book, cancel, re-schedule the cab bookings, servers to be available all the time, and high priority should be given to accuracy.
 ### Location of work: 
-The work is to be divided accordingly, say, development in Android at one center and development in other (in parallel with the Android), etc.
+Division of work should be done accordingly, say Android development at one center and development in other (in parallel with the Android), etc.
 ### Period of Performance: 
-The work is to be started as soon as possible and deployment of the project should be completed by the second week of the November, 2016 with a threshold of not more than two weeks.
+As soon as possible, the work is to be started and by second week of the November project deployment should be completed, 2016 with a threshold of not more than two weeks.
+
+
 ### Deliverables Schedule: 
-At every iteration or sprint (2 weeks), the workable application is to be tested and checked for quality.
+The workable application should be tested and checked for quality For every iteration or sprint (2 weeks).
  
 ### Applicable standards: 
-The application should consist of a mandatory login page. The access rights should be two types, one for admin and the other for user.
+A mandatory login page should be present in the application. Two types of access rights should be given, one for admin and the other for user.
 ### Acceptance criteria: 
-The application should be available free for all the users and be available to access in any store, Google play store or App store.
+Availability of application should be free for all the users and be available to access in any store, Google play store or App store.
 ### Special requirements: 
-The application should consist of a message option, which should be able to send the current location and travel details to any user insisted phone number. It should also be able to track the location and update of price should be spontaneous. The user should be able to see his/her past travel history information after they logged into the application.
+A message option should be present in the application, which sends the current location and travel details to any user insisted phone number. Spontaneously, the tracking of the location and price updates should be done. After the user logged into the application the user should be able to see his/her past travel history information.
 ### Possible Appendices: 
-The system should be able to store the historical information of every user separately (which can be used for analytics later). The history no later than 6 months is to be stored. The warehouse should be updated on a daily basis.
+The historical information of every user should be stored separately in the system (which can be used for analytics later). The history of only 6 months is to be stored. The warehouse should be updated on a daily basis.
 ### Contract: 
 The project should be completed in total by SJN organization and any assistance in the middle is welcomed.
 If the above information is sufficient to move further and start with the project, we shall set up a meeting and discuss the other requirements later.
-
-## Project Stakeholder Management
-### Stakeholder management plan
-### Stakeholder register
 
 ### Stakeholder analysis
 |Name	|Power/Interest	|Current Engagement	|Potential Management Strategies|
@@ -493,12 +490,7 @@ If the above information is sufficient to move further and start with the projec
  |Date Reported|	May 13th|	May 18th|	June 15th|	June 12th|	July 15th|	July 28th|	July 24th|
 |Description|Categories as mandatory and optional are to be mentioned for requirements	|Requires a list of suppliers|	Customer care workers aren’t trained 	|Many reports are in pending, after that they are not resolved but just disappear.|	Other suppliers also provide service with same quality|	Time- Probability of project getting delayed is high|	Cost will be more because the delay of the project|
 |Impact|Progress is less without it|Process of evaluation will be delayed|Customer Dissatisfaction|Proper analysis will not be done|	Business will not run properly|Launch of service will get late|Budget will exceed|
-|Status|Closed|	Open|	Closed|	Closed	|Open|	Open	|Open|
-|Due Date|	May 15th |	May 21st|	June 17th	|June 15th|	July 18th|	August 21st	|July 23rd|
-|Priority(H/M/L)|High	|High	|High	|Medium	|High	|High	|High|
-|Assigned to|	Stephen|Tim|	Steve|	George|	Todd|	Mady|	Jenny|
-|Reported by|	John|	Ken|Jeff|	Kim|	Mark|	Leo|	Messy|
-|Comments|	Labeling of requirement is done	Not Finished.| First issue has to be sorted.|	Proper training techniques are implemented.	|Analysis is done and reports are generated|	Few more techniques have been added.|	Few technical people must be hired to complete the task.|
+
 
 
 
