@@ -379,12 +379,12 @@ The following RACI chart shows the relationship between project tasks and team m
 |Rank|	Risk	Description|	Category|	Root Cause|	Potential Responses|	Risk Owner|	Impact	|Status|
 |------|--------|------|-------|------|------|------|------|
 |1|	Executive Support	|There should be specific commitments for the project from the top level management. Very Weak executive support is the biggest risk.	|Structure/Process risk	Commitment from executives	|Risk Avoidance	|Project Manager		|High	|Avoided|
-|2	|Cash flow	|Increase in the budget of the project due to several factors like raise in software price and resources pay etc.	|Financial Risk	|Increase in price of softwares and resource wages	|Finance Manager	|	 Risk Acceptance	|High	|Anticipated|
-|3	|Scope|	The estimates of quality, dependencies and scope management is wrong or guess is incorrect then there can be a huge risk	Structure/Process risk	|Wrong estimation 		|Project Manager	|Risk avoidance	|High|	Avoided|
-|4	|Stakeholders	|If stakeholders has negative attitude towards a project or no cooperation between them, then it is a road block to the project.|	Process Risk	|Lack of cooperation between stakeholders		|Program Manager|Risk avoidance		|Medium	|Mitigated|
+|2	|Cash flow	|Increase in the budget of the project due to several factors like raise in software price and resources pay etc.	|Financial Risk	|Increase in price of softwares and resource wages	|	 Risk Acceptance|Finance Manager		|High	|Anticipated|
+|3	|Scope|	The estimates of quality, dependencies and scope management is wrong or guess is incorrect then there can be a huge risk	Structure/Process risk	|Wrong estimation 	|Risk avoidance	|Project Manager		|High|	Avoided|
+|4	|Stakeholders	|If stakeholders has negative attitude towards a project or no cooperation between them, then it is a road block to the project.|	Process Risk	|Lack of cooperation between stakeholders	|Risk avoidance		|Program Manager	|Medium	|Mitigated|
 |5	|Resources and Team 	|If the resources are leaving company or inexperienced team members with proper skill set People Risk	|Lack of resources with proper skill set 	|Risk Mitigation	|Project Manager		|Medium 	|Anctipated|
 |6	|Existence of similar software in the market	|If there is a similar consulting firm that develops websites, it can reduce the popularity of the company	|Market Risk	|Availability of similar products in the market	|Risk Acceptance	|Program Manager		|Medium 	|Anctipated|
-|7	|Recession in market	|Fluctuating market demands that cause shares to increase and decrease without any specific pattern	Market Risk	|Recession 	|Risk Acceptance	|High		|Medium |	Anctipated|
+|7	|Recession in market	|Fluctuating market demands that cause shares to increase and decrease without any specific pattern	Market Risk	|Recession 	|Risk Acceptance|Manager		|Medium |	Anctipated|
 
 
 ### Risk Mitigation Strategies
