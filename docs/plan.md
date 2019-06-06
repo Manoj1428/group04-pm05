@@ -434,17 +434,7 @@ The work is relied upon to be begun on May 28th and to be done on September 30th
 To determine the need for the website change to a mobile application
 ### Organizations background:
 The organization has the best support for the and also fits the needs and requirements.
-### Basic requirements:
-- Website is converted to mobile application
-- Must be compatible with both Android and iOS devices.
-- Before November 2nd week the deployment should be completed
-- Jdk 1.7 must be used.
-- Android devices from version 4.1
-- iOS devices from iOS 7.0 should support.
-- XCode IDE is used.
-- Android studio 1.5 compatibility.
-- Swift version 9 compatibility.
-- Use of MySQL as the main database.
+
 ### Statement of work and Schedule information: 
 ### Scope of work: 
 All the requirements should be met by the project in the actual website and allow people to book, cancel, re-schedule the cab bookings, servers to be available all the time, and high priority should be given to accuracy.
@@ -472,15 +462,15 @@ If the above information is sufficient to move further and start with the projec
 ### Stakeholder analysis
 |Name	|Power/Interest	|Current Engagement	|Potential Management Strategies|
 |-------|------|--------|--------|
-|Edward Cullen	|High/Medium	|Neutral	|He has specifications for the project. It is better to involve Kumar in weekly and monthly meetings and take review regarding the deliverables.|
-|Jacob	|Medium/High	|Supportive	|He seems to be more interactive, with good communication skills. He has been with the company for many years. He must be involved in weekly discussions for advising.|
-|Renesseme	|High/High	|Leading	|She has nice commanding skills and good programming knowledge. She can monitor the project status.|
-|Bella Swan	|High/Medium	|Leading	|She has best leadership qualities. She can coordinate with team members and check the project progress.|
-|Rosalie Hale |Medium/High	|Supportive	|Swetha had experience as a program designers. She can code for any project. She can coordinate with other team members easily. She is a self-motivator.|
-|Alice Cullen	|Medium/Medium	|Resistant	|Kavya is a good programmer. But bad at resolving bugs. She discourages herself for every error. She needs encouragement to work.|
-|Emette Cullen	|Medium/High	|Resistant	|Mark is new to the company. Can organize things in a coordinate way. He need support with other team members to work in coordinating way.|
-|Mike Newton	|High/High	|Supportive	|Aanya is good at analyzing people. She can select employees with necessary stuff. She does not need any one to involve in her work, all she needs is an authority over the work.|
-|Renne Dawyer	|High/High	|QA Tester	|Jaiswal had experience in testing field. She is best at finding out errors. She can detect errors. She needs a team that can coordinate with Jaiswal.|
+|Manoj|High/Medium	|Neutral	|He has specifications for the project. It is better to involve manoj in weekly and monthly meetings and take review regarding the deliverables.|
+|Nithya	|Medium/High	|Supportive	|SHe seems to be more interactive, with good communication skills. SHe has been with the company for many years. SHe must be involved in weekly discussions for advising.|
+|Manasa	|High/High	|Leading	|She has nice commanding skills and good programming knowledge. She can monitor the project status.|
+|Farheen|High/Medium	|Leading	|She has best leadership qualities. She can coordinate with team members and check the project progress.|
+|Manoj |Medium/High	|Supportive	|experience as a program designers. and can code for any project. he can coordinate with other team members easily. He is a self-motivator.|
+|Farheen	|Medium/Medium	|Resistant	|she is a good programmer. But bad at resolving bugs. She discourages herself for every error. She needs encouragement to work.|
+|Nithya	|Medium/High	|Resistant	|she is new to the company. Can organize things in a coordinate way. He need support with other team members to work in coordinating way.|
+|Manasa	|High/High	|Supportive	| good at analyzing people. She can select employees with necessary stuff. She does not need any one to involve in her work, all she needs is an authority over the work.|
+|Manoj	|High/High	|QA Tester	| had experience in testing field. He is best at finding out errors. he can detect errors. Hhe needs a team that can coordinate with .|
 
 ### Issue log
 |Issue Number|	1|	2|	3|	4|	5|	6|	7|
