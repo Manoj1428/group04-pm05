@@ -397,6 +397,10 @@ The following RACI chart shows the relationship between project tasks and team m
 |Sessions for Knowledge transfer|Quality Deliverable and reviewing it before releasing   it into the market||All the inflow and outflow of cost should be documented|
  ||Using WBS||	 Frequency of monitoring project|
  
+ 
+ 
+ # FROM HERE
+ 
  ## Project Procurement Management
  ### Procurement management plan
  
@@ -427,6 +431,52 @@ The work is expected to be started on May 28th and to be finished on September 3
 |Final documentation|This is the final documented report |6/21/2016|
 
  ### Request for proposal
+ 
+### Objective: 
+To specify the need for the change of website to a mobile application
+### Organizations background:
+The organization has the best support for the and also fits the needs and requirements.
+### Basic requirements:
+•	Convert the website to the mobile application.
+•	Should be compatible with both Android and iOS devices.
+•	The deployment should be done before November 2nd week.
+### Hardware and Software Environment:
+•	Jdk 1.7 should be used.
+•	Android devices from version 4.1
+•	iOS devices from iOS 7.0 should support.
+•	XCode IDE is to be used.
+•	Android studio 1.5 compatibility.
+•	Swift version 9 compatibility.
+•	Use of MySQL as the main database.
+### Statement of work and Schedule information: 
+### Scope of work: 
+The project should be able to meet all the requirements in the actual website and allow people to book, cancel, re-schedule the cab bookings, servers to be available all the time, and accuracy should be given high priority.
+### Location of work: 
+The work is to be divided accordingly, say, development in Android at one center and development in other (in parallel with the Android), etc.
+### Period of Performance: 
+The work is to be started as soon as possible and deployment of the project should be completed by the second week of the November, 2016 with a threshold of not more than two weeks.
+### Deliverables Schedule: 
+At every iteration or sprint (2 weeks), the workable application is to be tested and checked for quality.
+ 
+### Applicable standards: 
+The application should consist of a mandatory login page. The access rights should be two types, one for admin and the other for user.
+### Acceptance criteria: 
+The application should be available free for all the users and be available to access in any store, Google play store or App store.
+### Special requirements: 
+The application should consist of a message option, which should be able to send the current location and travel details to any user insisted phone number. It should also be able to track the location and update of price should be spontaneous. The user should be able to see his/her past travel history information after they logged into the application.
+### Possible Appendices: 
+The system should be able to store the historical information of every user separately (which can be used for analytics later). The history no later than 6 months is to be stored. The warehouse should be updated on a daily basis.
+### Contract: 
+The project should be completed in total by SJN organization and any assistance in the middle is welcomed.
+If the above information is sufficient to move further and start with the project, we shall set up a meeting and discuss the other requirements later.
+
+## Project Stakeholder Management
+### Stakeholder management plan
+### Stakeholder register
+
+### Stakeholder analysis
+
+### Issue log
  
 
 
