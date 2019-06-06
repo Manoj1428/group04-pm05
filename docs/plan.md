@@ -406,18 +406,18 @@ The following RACI chart shows the relationship between project tasks and team m
  
  ### Statement of Work
 - Scope of Work: 
-The hardware involves Microsoft desktops for android developers and other staff, Mac’s for iOS developers, laptops for higher level management officials, printers to take print outs of documents, Xerox machines for making photocopies of some documents, iPad’s for testing the iOS application, nexus tabs for testing the android application.
-The software involves windows operating system for desktops, java 8.1 version for android, Xcode for developing the application for iPhones, selenium for testing both android and iOS applications, oracle for database, android studio, SQL for database, outlook for communication, and WhatsApp group for instant messages Skype for conference calls
+The equipment includes Microsoft work areas for android engineers and other staff, Mac's for iOS designers, workstations for more elevated amount the board authorities, printers to take print outs of records, Xerox machines for making photocopies of certain archives, iPad's for trying the iOS application, nexus tabs for testing the android application. 
 
+The product includes windows working framework for work areas, java 8.1 form for android, Xcode for building up the application for iPhones, selenium for testing both android and iOS applications, prophet for database, android studio, SQL for database, viewpoint for correspondence, and WhatsApp bunch for texts Skype for telephone calls
 - Location of Work:
-The work must be performed in the office. The hardware and software are located in the same building where the work must be performed.
+The work must be performed in the workplace. The equipment and programming are situated in a similar structure where the work must be performed.
 
 - Period of Performance:
 The work is expected to be started on May 28th and to be finished on September 30th, number of working hours per day is 8,  number of hours that can be billed per week is 56- 60, the work must be performed in the office
 
 
 - Deliverables Schedule:
-
+The work is relied upon to be begun on May 28th and to be done on September 30th, number of working hours out of every day is 8, number of hours that can be charged every week is 56-60, the work must be performed in the workplace
 
 |Deliverable|Description|Due date|
 |-------|---|----|
@@ -433,7 +433,7 @@ The work is expected to be started on May 28th and to be finished on September 3
  ### Request for proposal
  
 ### Objective: 
-To specify the need for the change of website to a mobile application
+To determine the need for the website change to a mobile application
 ### Organizations background:
 The organization has the best support for the and also fits the needs and requirements.
 ### Basic requirements:
