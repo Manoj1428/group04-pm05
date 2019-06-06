@@ -24,7 +24,7 @@ This project Charter is for the project "Project Management FunctionBox".
 - G.N.S.Manoj 
 
 ## Budget 
-- $1500
+- $8569
 
 ## Scope
 ### Phase 1 - Initiation
