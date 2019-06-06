@@ -488,8 +488,11 @@ If the above information is sufficient to move further and start with the projec
 |Manikarnika Jaiswal	|High/High	|QA Tester	|Jaiswal had experience in testing field. She is best at finding out errors. She can detect errors. She needs a team that can coordinate with Jaiswal.|
 
 ### Issue log
- |Date Reported|	May 13th|	May 18th|	June 15th|	June 12th|	July 15th|	July 28th|	July 24th|
+|Issue Number|	1|	2|	3|	4|	5|	6|	7|
  |------|-----|------|-----|-------|--------|-------|--------|
+ |Date Reported|	May 13th|	May 18th|	June 15th|	June 12th|	July 15th|	July 28th|	July 24th|
+|Description|Categories as mandatory and optional are to be mentioned for requirements	|Requires a list of suppliers|	Customer care workers aren’t trained 	|Many reports are in pending, after that they are not resolved but just disappear.|	Other suppliers also provide service with same quality|	Time- Probability of project getting delayed is high|	Cost will be more because the delay of the project|
+|Impact|Progress is less without it|Process of evaluation will be delayed|Customer Dissatisfaction|Proper analysis will not be done|	Business will not run properly|Launch of service will get late|Budget will exceed|
 |Status|Closed|	Open|	Closed|	Closed	|Open|	Open	|Open|
 |Due Date|	May 15th |	May 21st|	June 17th	|June 15th|	July 18th|	August 21st	|July 23rd|
 |Priority(H/M/L)|High	|High	|High	|Medium	|High	|High	|High|
